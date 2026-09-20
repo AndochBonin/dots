@@ -11,9 +11,9 @@ return {
         transparent = false,
         dimInactive = false,
         terminalColors = true,
-        theme = "dragon",
+        theme = "wave", -- could also be dragon
         background = {
-            dark = "dragon",
+            dark = "wave",
             light = "lotus",
         },
     },

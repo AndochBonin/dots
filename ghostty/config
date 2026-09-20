@@ -2,7 +2,7 @@ theme = Kanagawa Dragon
 font-family = JetBrainsMono
 font-size = 14
 # window-padding-x = 2
-# background = #000000
+# background = #28282B
 # resize-overlay-duration = 4s 200ms
 
 # multiline input

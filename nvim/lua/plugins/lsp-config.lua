@@ -12,7 +12,7 @@ return {
     {
         "mason-org/mason-lspconfig.nvim",
         opts = {
-            ensure_installed = { "lua_ls", "gopls", "vimls" }
+            ensure_installed = { "lua_ls", "gopls", "vimls", "bash-language-server" }
         },
         dependencies = {
             "mason-org/mason.nvim",
@@ -43,6 +43,7 @@ return {
                 "lua_ls",
                 "gopls",
                 "vimls",
+                "bash-language-server"
             })
         end,
     }
