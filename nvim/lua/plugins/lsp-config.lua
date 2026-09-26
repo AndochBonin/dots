@@ -43,7 +43,8 @@ return {
                 "lua_ls",
                 "gopls",
                 "vimls",
-                "bash-language-server"
+                "bash-language-server",
+                "vtsls"
             })
         end,
     }
